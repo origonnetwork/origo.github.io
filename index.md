@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-## Devlopmet Site
-<html>
-	<head>
 
-	</head>
-<body>
+## Devlopmet Site
 <script src="typed.js"></script>
 <script>
 	document.addEventListener("DOMContentLoaded", function(){
@@ -18,6 +13,3 @@
 
 <span class="element"></span>
 
-	</body>
-	
-</html>
