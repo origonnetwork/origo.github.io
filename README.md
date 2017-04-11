@@ -4,7 +4,7 @@
 <script>
 	document.addEventListener("DOMContentLoaded", function(){
 		Typed.new(".element", {
-			strings: ["Du äldkar pvp.", "Men hittar ingen bra sever.", "Joina play.origonnetwork.com.", "Just Pvp games." ],
+			strings: ["Du äldkar pvp.", "Men hittar ingen bra sever.", "Joina play.origonnetwork.com.", "Just Pvp games."],
 			typeSpeed: 0
 		});
 	});
